@@ -1,0 +1,12 @@
+.copy {
+  padding-top: 10px;
+}
+
+.copy > p {
+  color: #1a1a2e;
+  transition: 200ms ease-in;
+}
+
+.copy > p:hover {
+  color: #00bcd4;
+}
